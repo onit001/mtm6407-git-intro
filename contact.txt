@@ -1,1 +1,2 @@
-This is a contact.txt file.
+You can contact me at: 012-345-6789
+Or email me at: Armonicapel@gmail.com
